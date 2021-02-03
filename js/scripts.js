@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Rahul',
     '2nd year computer science under graduate',
     'I love playing with Data Structures and Algorithims',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:rr200636@gmail.com">hello@rahul</a>',
+    'You can contact me at <a href="mailto:rr200636@gmail.com">hello@rahul</a>',
     '<a target="_blank" href="https://www.instagram.com/xilntonoxia/">instagram@xilntonoxia</a><br><a target="_blank" href="https://github.com/rahulraikwar00">github.com/rahulraikwar</a>',
     getCurrentTime(),
     '😎 ✔.'
